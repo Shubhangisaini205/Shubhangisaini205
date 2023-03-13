@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm shubhangi Saini</h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Quick+learner+Problem+solver&color=red&center=true" />
-</div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=29F742&background=9FFF3A00&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Developer;Quik+Learner"/>
+ </div>
+
 <!--
 **Shubhangisaini205/Shubhangisaini205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
