@@ -29,11 +29,12 @@
 <h2>Github Stats 📈</h2>
   <br />
   
-![shubhangi's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![shubh's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   <br/>
-![shubhangi's GitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=Shubhangisaini205&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-![shubhangi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true)
+![shubh's GitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=Shubhangisaini205&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+ [![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shubhangisaiini205&theme=vision-friendly-dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
+
 
 <br/>
 
