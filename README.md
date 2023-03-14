@@ -29,7 +29,7 @@
 
 </br>
 <h2>📊 Github Stats </h2>
-<div align="center">
+<div align="left">
 
   <br />
   
