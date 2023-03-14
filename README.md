@@ -28,8 +28,9 @@
 
 
 </br>
+## 📊 Github Stats 
 <div align="center">
-<h2>Github Stats 📊</h2>
+
   <br />
   
 ![Shubh's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
