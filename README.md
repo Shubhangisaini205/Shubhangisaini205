@@ -19,7 +19,7 @@
 
 
 
-## 🔗 Connect with mw 
+## 🌐 Connect with me 
 <a href="https://www.linkedin.com/in/shubhangi-saini/">
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
