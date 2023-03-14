@@ -31,7 +31,7 @@
   
 ![shubhangi's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   <br/>
-![shubhangi'sGitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=username=Shubhangisaini205&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![shubhangi's GitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=Shubhangisaini205&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 ![shubhangi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true)
 <br/>
 
