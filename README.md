@@ -28,9 +28,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubhangisaini205&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-<div align="center">
 # Github Stats 📊
+<div align="center">
   <br />
 ![shubh's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   <br/>
