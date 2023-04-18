@@ -10,6 +10,7 @@
 - 💬 Ask me about react.js, javscript
 - 📫 How to reach me: shubhangisaini205@gmail.com
 - ⚡ Fun fact: I am foody software developer 🍕 🍔.
+- 👨‍💻 Know more about me 👉<a href="https://shubhangisaini205.github.io/" target="_blank">Portfolio</a>
  
  <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
@@ -17,7 +18,7 @@
  
  
  ## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/shubhangi-saini/">
+<a href="https://www.linkedin.com/in/shubhangi-saini/" target="_blank">
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
@@ -36,11 +37,12 @@
 
   <br />
   
-![Shubh's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  <br/>
-![Shubh's GitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=Shubhangisaini205&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhangisaini205&theme=vision-friendly-dark&hide_border=true)
+![Shubh's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangisaini205&theme=react)
 <br/>
+![Shubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhangisaini205&count_private=true&theme=react)
+<br/>
+![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shubhangisaini205&theme=react&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D)
+
 
 <br/>
 
