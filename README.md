@@ -10,7 +10,7 @@
 - 💬 Ask me about react.js, javscript
 - 📫 How to reach me: shubhangisaini205@gmail.com
 - ⚡ Fun fact: I am foody software developer 🍕 🍔.
-- 👨‍💻 Know more about me 👉<a href="https://shubhangisaini205.github.io/" target="_blank">Portfolio</a>
+- 👨‍💻 Know more about me 👉<a href="https://shubhangisaini205.github.io/" target="_blank">https://shubhangisaini205.github.io/</a>
  
  <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
